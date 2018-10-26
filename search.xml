@@ -7,7 +7,7 @@
       <link href="/2018/10/26/1026%E6%8C%82%E8%B5%B7%E5%8D%9A%E5%AE%A2/"/>
       <url>/2018/10/26/1026%E6%8C%82%E8%B5%B7%E5%8D%9A%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[<h1 id="1026上传博客"><a href="#1026上传博客" class="headerlink" title="1026上传博客"></a>1026上传博客</h1>]]></content>
+        <content type="html"><![CDATA[<h1 id="1026上传博客"><a href="#1026上传博客" class="headerlink" title="1026上传博客"></a>1026上传博客</h1><h2 id="先注册github-创建仓库，然后把项目托管在github"><a href="#先注册github-创建仓库，然后把项目托管在github" class="headerlink" title="先注册github,创建仓库，然后把项目托管在github."></a>先注册github,创建仓库，然后把项目托管在github.</h2><p>1.生成本地ssh key<br>ssh-keygen -t rsa -c “邮箱地址”<br>2.验证本地github的邮箱和用户名<br>git config –global user.name “用户名”<br>git config –global user.email “邮箱地址”<br>3.创建github仓库<br>4.添加远端仓库<br>如果默认地址为 git remote add origin <a href="https://githunb.com.." target="_blank" rel="noopener">https://githunb.com..</a>.<br>需要切换验证按钮为 ssh 切换地址为<a href="mailto:git@github.com" target="_blank" rel="noopener">git@github.com</a>…<br>5.创建blog仓库<br>仓库名必须为：用户名.github.io</p>]]></content>
       
       
       
